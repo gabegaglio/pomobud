@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pomobud/static/css/main.17045b30.css",
-    "main.js": "/pomobud/static/js/main.9dc43602.js",
+    "main.css": "/pomobud/static/css/main.c5921c08.css",
+    "main.js": "/pomobud/static/js/main.a07f4809.js",
     "index.html": "/pomobud/index.html",
-    "main.17045b30.css.map": "/pomobud/static/css/main.17045b30.css.map",
-    "main.9dc43602.js.map": "/pomobud/static/js/main.9dc43602.js.map"
+    "main.c5921c08.css.map": "/pomobud/static/css/main.c5921c08.css.map",
+    "main.a07f4809.js.map": "/pomobud/static/js/main.a07f4809.js.map"
   },
   "entrypoints": [
-    "static/css/main.17045b30.css",
-    "static/js/main.9dc43602.js"
+    "static/css/main.c5921c08.css",
+    "static/js/main.a07f4809.js"
   ]
 }
